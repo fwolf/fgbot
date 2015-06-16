@@ -1,3 +1,7 @@
+-- This lua file need to be configured to run with telegram-cli, it transfer
+-- messages to php script, and act by php output.
+
+
 local json = require('dkjson')
 local base64 = require('ee5_base64')
 
